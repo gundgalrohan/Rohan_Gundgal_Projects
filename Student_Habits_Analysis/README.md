@@ -15,7 +15,7 @@ R ggplot2 dplyr
 
 How to Run
 rinstall.packages(c("ggplot2", "dplyr"))
-# Update the CSV path in the script, then:
+Update the CSV path in the script, then:
 source("student_habits_analysis.R")
 
 Dataset
