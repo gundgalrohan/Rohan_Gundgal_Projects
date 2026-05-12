@@ -1,0 +1,83 @@
+{
+    "Vitiligo": {
+      "precautions": [
+        "Use sunscreen to protect depigmented skin.",
+        "Avoid skin trauma or harsh chemicals.",
+        "Wear protective clothing when outdoors.",
+        "Manage stress, as it can trigger flare-ups.",
+        "Avoid excessive sun exposure or tanning beds."
+      ],
+      "care": [
+        "Topical corticosteroids or calcineurin inhibitors may help.",
+        "Phototherapy under dermatological guidance.",
+        "Cosmetic camouflage can improve appearance.",
+        "Seek emotional support or counseling if needed.",
+        "Regular dermatological check-ups for monitoring."
+      ]
+    },
+    "Albinism": {
+      "precautions": [
+        "Avoid direct sun exposure; use high SPF sunscreen.",
+        "Wear sunglasses and protective clothing outdoors.",
+        "Regular vision check-ups are important.",
+        "Stay in shaded areas during peak sunlight hours.",
+        "Use wide-brimmed hats for face protection."
+      ],
+      "care": [
+        "Wear prescription glasses for vision support.",
+        "Use tinted lenses to reduce light sensitivity.",
+        "Protect eyes and skin consistently to prevent damage.",
+        "Monitor skin for any unusual growths or changes.",
+        "Join support groups or genetic counseling if needed."
+      ]
+    },
+    "Pityriasis Alba": {
+      "precautions": [
+        "Moisturize skin regularly, especially in dry seasons.",
+        "Avoid harsh soaps or skin irritants.",
+        "Use sunscreen to minimize contrast of patches.",
+        "Don’t scratch affected areas to avoid worsening.",
+        "Limit exposure to extreme weather changes."
+      ],
+      "care": [
+        "Use mild corticosteroid creams if prescribed.",
+        "Apply non-fragrant moisturizers several times daily.",
+        "Use gentle, pH-balanced skin cleansers.",
+        "Allow patches to heal naturally without picking.",
+        "Hydration and a balanced diet support skin health."
+      ]
+    },
+    "Tinea Versicolor": {
+      "precautions": [
+        "Avoid excessive sweating and humidity when possible.",
+        "Use antifungal shampoos or body washes regularly.",
+        "Dry your skin thoroughly after bathing or sweating.",
+        "Avoid tight-fitting clothing that traps sweat.",
+        "Keep skin clean and avoid sharing personal items."
+      ],
+      "care": [
+        "Apply topical antifungal creams as directed.",
+        "Use medicated cleansers containing selenium sulfide.",
+        "See a dermatologist if over-the-counter treatments fail.",
+        "Maintain a dry and cool body environment.",
+        "Repeat antifungal treatment before summer as prevention."
+      ]
+    },
+    "Hypomelanosis": {
+      "precautions": [
+        "Avoid trauma or irritation to affected skin areas.",
+        "Protect skin from sunburn with SPF and clothing.",
+        "Be cautious with harsh skincare or cosmetics.",
+        "Monitor spots for any changes in shape or color.",
+        "Educate caregivers if dealing with children."
+      ],
+      "care": [
+        "Consult dermatologists for individualized treatment.",
+        "Follow prescribed therapies like topical treatments.",
+        "Use makeup or cover-up if needed for confidence.",
+        "Regular check-ups for associated neurocutaneous signs.",
+        "Supportive therapies or developmental evaluations if advised."
+      ]
+    }
+  }
+  

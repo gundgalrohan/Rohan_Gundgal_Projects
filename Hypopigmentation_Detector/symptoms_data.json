@@ -1,0 +1,72 @@
+{
+  "Vitiligo": {
+    "symptoms": [
+      "white patches on skin",
+      "asymmetrical white spots",
+      "spots that don't tan",
+      "white scalp hair",
+      "fading lip color",
+      "discoloration near eyes",
+      "depigmented hands",
+      "gradual loss of skin color",
+      "irregular white shapes",
+      "skin discoloration"
+    ]
+  },
+  "Albinism": {
+    "symptoms": [
+      "light hair",
+      "pale skin",
+      "lack of pigment",
+      "white scalp hair",
+      "transparent iris",
+      "low melanin",
+      "light eye color",
+      "vision problems",
+      "rapid eye movement",
+      "sun sensitivity"
+    ]
+  },
+  "Pityriasis Alba": {
+    "symptoms": [
+      "white flat patches",
+      "appears on cheeks",
+      "dry scaly patches",
+      "seasonal skin change",
+      "white flaky patches",
+      "hypopigmented plaques",
+      "itchy patches",
+      "mild redness",
+      "scaly texture",
+      "skin flaking"
+    ]
+  },
+  "Tinea Versicolor": {
+    "symptoms": [
+      "fungal infection",
+      "scaly patches",
+      "tan or light brown spots",
+      "body or back spots",
+      "affected in summer",
+      "white flaky patches",
+      "skin discoloration",
+      "overactive yeast",
+      "itchy areas",
+      "non-tanning spots"
+    ]
+  },
+  "Hypomelanosis": {
+    "symptoms": [
+      "birthmark depigmentation",
+      "unilateral spots",
+      "irregular white shapes",
+      "white flat patches",
+      "neurocutaneous signs",
+      "skin discoloration",
+      "underdeveloped pigmentation",
+      "infant appearance",
+      "scattered light spots",
+      "white skin blotches"
+    ]
+  }
+}

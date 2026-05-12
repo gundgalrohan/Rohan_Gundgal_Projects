@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hypopigmentation Disorder Detection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Hypopigmentation Disorder Detection</h1>
+    
+    <!-- Symptom Input -->
+    <input type="text" id="symptomInput" placeholder="Search symptoms..." />
+
+    <!-- Dropdown for symptoms -->
+    <div class="dropdown">
+      <button class="dropdown-button" id="dropdownButton">Select Symptoms</button>
+      <div class="dropdown-content" id="dropdownContent">
+        <table id="checkboxContainer"></table>
+      </div>
+    </div>
+
+    <!-- Detect Button -->
+    <button id="detectButton">Detect Disorder</button>
+
+    <!-- Results Section -->
+    <div id="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

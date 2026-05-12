@@ -1,0 +1,119 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 80%;
+  max-width: 1000px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#symptomInput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 300px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  max-height: 400px;
+  overflow-y: auto;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+.dropdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.dropdown-content td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+.dropdown-content label {
+  cursor: pointer;
+}
+
+#detectButton {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 100%;
+  margin-top: 15px;
+}
+
+#results {
+  margin-top: 20px;
+}
+
+.no-matches {
+  color: red;
+}
+
+#precautionCare {
+  margin-top: 20px;
+  background-color: #e8f5e9;
+  border-left: 5px solid #4CAF50;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+#precautionCare h3 {
+  margin-top: 0;
+  color: #2e7d32;
+}
+
+#precautionCare ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+#precautionCare li {
+  margin-bottom: 8px;
+  color: #333;
+}
