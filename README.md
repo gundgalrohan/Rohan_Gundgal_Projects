@@ -1,2 +1,2 @@
-# Rohan_Gundgal_Projects
-A curated collection of engineering projects spanning algorithms, data analysis, data science, and full-stack development - built across languages including Python, C++, Java, and R.
+**Rohan Gundgal - Engineering Projects Portfolio**
+A curated collection of projects built during my engineering journey, reflecting my growth as a developer.
